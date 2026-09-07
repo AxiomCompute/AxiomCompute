@@ -1,1 +1,1 @@
-![AXIOM COMPUTE — Precision. Performance. Reliability.](./axiom-compute-github.svg)
+![AXIOM COMPUTE — Precision. Performance. Reliability.](./axiom.svg)
